@@ -1,0 +1,3 @@
+# requirements.txt
+
+py-cord==2.3.2
